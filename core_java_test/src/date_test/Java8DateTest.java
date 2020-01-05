@@ -7,7 +7,7 @@ public class Java8DateTest {
 	public static void main(String[] args) {
 		
 		LocalDate currentDate = LocalDate.now();
-		System.out.println("Current Date changed 21.58 : " + currentDate);
+		System.out.println("Current Date changed 22.19 : " + currentDate);
 
 	}
 
